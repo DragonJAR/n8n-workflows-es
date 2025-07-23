@@ -3095,6 +3095,7 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 - **[0050-calendly-humantic-personality-analysis.json](workflows/0050-calendly-humantic-personality-analysis.json)**
   - **Descripción:** Este flujo automatizado responde a eventos de Calendly (como la creación de un invitado) para ejecutar análisis de personalidad con Humantic AI y almacenar posteriormente los resultados en una página de base de datos de Notion.
   - **Complejidad:** Baja (4 nodos)
+  - [Ver lista completa](https://github.com/DragonJAR/n8n-workflows-es/blob/main/README.md)
 
 - **[0058-microsoft-todo-blueprint.json](workflows/0058-microsoft-todo-blueprint.json)**
   - **Descripción:** Este flujo permite crear y actualizar tareas en Microsoft To Do mediante un trigger manual. Comienza con la activación del trigger que inicializa el proceso. Luego crea una nueva tarea (create) especificando detalles como lista de tareas, importancia alta y contenido. Posteriormente, actualiza esa misma tarea usando los datos retornados por la creación para identificarla.
@@ -5990,6 +5991,7 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 - **[0050-calendly-humantic-personality-analysis.json](workflows/0050-calendly-humantic-personality-analysis.json)**
   - **Descripción:** Este flujo automatizado responde a eventos de Calendly (como la creación de un invitado) para ejecutar análisis de personalidad con Humantic AI y almacenar posteriormente los resultados en una página de base de datos de Notion.
   - **Complejidad:** Baja (4 nodos)
+  - [Ver lista completa](https://github.com/DragonJAR/n8n-workflows-es/blob/main/README.md)
 
 - **[0058-microsoft-todo-blueprint.json](workflows/0058-microsoft-todo-blueprint.json)**
   - **Descripción:** Este flujo permite crear y actualizar tareas en Microsoft To Do mediante un trigger manual. Comienza con la activación del trigger que inicializa el proceso. Luego crea una nueva tarea (create) especificando detalles como lista de tareas, importancia alta y contenido. Posteriormente, actualiza esa misma tarea usando los datos retornados por la creación para identificarla.
