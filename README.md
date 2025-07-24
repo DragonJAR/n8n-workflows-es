@@ -9570,7 +9570,7 @@ Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emple
 
 - **[1557-Voice_Assistant_MCP.json](workflows/1557-Voice_Assistant_MCP.json)**
   - **Descripción:** Asistente de voz que utiliza un trigger de webhook, transcribe audio, y usa agentes MCP para gestionar Gmail, Calendario y Contactos.
-  - **Complejidad:** Alta (13 nodos)
+  - **Complejidad:** Media (13 nodos)
 
 - **[1534-Phone_Assistant.json](workflows/1534-Phone_Assistant.json)**
   - **Descripción:** Asistente telefónico que interactúa con un webhook, extrae información de llamadas, y utiliza agentes MCP para gestionar calendarios y Gmail.
